@@ -4,7 +4,7 @@ pragma solidity ^0.8.20;
 contract wallet {
     struct PaymentReceivedStruct {
         uint256 amount;
-        address from;
+        address from; 
     }
 
     PaymentReceivedStruct public payment;
