@@ -14,7 +14,7 @@
   
   <br>
   
-  <a href="#overview">Overview</a> •
+  <a href="#overview">Overview</a> • 
   <a href="#features">Features</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#deployment">Deployment</a> •
